@@ -1,0 +1,9 @@
+$title[Congratulations!!]
+ $description[You were accepted into the Translator program! in a few moments you will receive the Volunteer Translator Role.] 
+
+   $color[E90000]
+      
+       $nomention
+         
+          $deletecommand
+
