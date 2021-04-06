@@ -1,0 +1,15 @@
+
+ $nomention
+       $onlyAdmin[only for server staff.]
+$title[Volunteer UI: Black-List]
+$description[<@$mentioned[<]> **the user was removed from the Black List.**
+
+**$username** removed from the **blacklist** <@$mentioned[<]>. 
+
+His account has been **unflagged**.
+
+**Date:** $date]
+$footer[Added by $username | $date]
+    $color[FF0000]
+        $deletecommand
+     $useChannel[821575689392226314] 
