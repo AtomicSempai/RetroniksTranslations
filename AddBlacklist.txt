@@ -1,0 +1,18 @@
+
+$nomention
+ $onlyAdmin[only for server staff.]
+        $title[Volunteer UI: Black-List]
+
+$description[<@$mentioned[<]> **was added to the Black-List.**
+
+**$username** The user was added to the **Black-List** of the Translator program. 
+
+His account has been **flagged**.
+
+**Reason:** $noMentionMessage
+
+**Date:** $date]
+   $footer[Added by $username | $date]
+    $color[FF0000]
+     $deletecommand
+      $useChannel[821575689392226314] 
