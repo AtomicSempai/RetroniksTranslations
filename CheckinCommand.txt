@@ -1,0 +1,13 @@
+$title[volunteer check]
+    $color[18FF10] 
+$description[
+**Thanks $username, you have been successfully verified!** 
+
+**date:** $date]
+  $footer[Check by $username]
+$blackListIDs[Trainee ;**You do not have permission to run this command***]
+      $cooldown[48h;**You have already checked.**.]
+   $deleteIn[4s]
+    $deletecommand
+      $nomention
+       $argsCheck[>1; use ```!checkin <position>```]
