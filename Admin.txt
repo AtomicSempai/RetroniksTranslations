@@ -1,0 +1,10 @@
+$nomention
+@here
+
+$title[check-up]
+
+$description[Hello, it seems it's time to do a check-up, please use the command
+```!checkin <position>```]
+
+$color[64FAF6]
+$deletecommand
