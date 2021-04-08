@@ -1,1 +1,9 @@
 
+$nomention
+$slowmode[829504441187041330;124s]
+$deletecommand
+$title[Slowmode Activated]
+$description[$username ah activated slow mode.]
+$footer[Staffchat | Date: $date]
+$color[38FF39]
+$useChannel[821575689392226314] 
